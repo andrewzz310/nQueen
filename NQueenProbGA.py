@@ -1,8 +1,8 @@
 """""
 Andrew Yiyun Zhu
-AI Class Spring Quarter 2018 HW3
 
-In C++ or Python develop a software to solve N-Queen problem using Genetic Algorithm. 
+
+In Python developed a software to solve N-Queen problem using Genetic Algorithm. 
 For this purpose, I design an encoding (how to represent each state), a mutation, 
 and a crossover method as well as an appropriate fitness function.
 
